@@ -1,11 +1,17 @@
 TASK 3 – Secure Coding Review: 
-*Application running.png
-*login1.py.png
-*Bandit installed.png
-*Bandit scan result 1.png
-*secure login1.py.png
-*Secure application.png
-*Final Bandit result.png
+- [Application Running](./Application%20running.png)
+
+- [Bandit Installed](./Bandit%20installed.png)
+
+- [Bandit Scan Result 1](./Bandit%20scan%20result%201.png)
+
+- [Final Bandit Result](./Final%20Bandit%20result.png)
+
+- [Secure Application](./Secure%20application.png)
+
+- [Login1 Python Screenshot](./login1.py.png)
+
+- [Secure Login1 Python Screenshot](./secure%20login1.py.png)
 
 1.	Select the Application
 o	Programming Language: Python
