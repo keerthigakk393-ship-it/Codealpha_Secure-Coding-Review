@@ -6,6 +6,7 @@ TASK 3 – Secure Coding Review:
 *secure login1.py.png
 *Secure application.png
 *Final Bandit result.png
+
 1.	Select the Application
 o	Programming Language: Python
 o	Application: Login System
